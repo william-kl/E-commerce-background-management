@@ -1,4 +1,5 @@
-import './styles/main.scss';
+import './styles/index.scss';
+import './styles/index.css';
 import React, {useState, useEffect} from 'react';
 import ReactDOM from 'react-dom';
 import ProgressBar from './components/ProgressBar';
